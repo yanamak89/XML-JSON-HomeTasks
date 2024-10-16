@@ -1,0 +1,10 @@
+<TelephoneBook>
+    <Contact>
+        <Name>John Doe</Name>
+        <PhoneNumber>123-123-2234</PhoneNumber>>
+    </Contact>
+    <Contact>
+        <Name>Jane Smith</Name>
+        <PhoneNumber>987-654-3212</PhoneNumber>>
+    </Contact>>
+</TelephoneBook>
